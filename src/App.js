@@ -1,4 +1,4 @@
-import { Stars } from './components/Stars'
+import { Stars } from './components/Stars.tsx'
 import './App.css';
 
 function App() {
